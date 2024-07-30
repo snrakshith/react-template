@@ -16,6 +16,7 @@ export const App: React.FC = () => {
           </button>
         </p>
         <p>
+          <a className="text-2xl">Learn React</a>
           <a
             className="app-link"
             href="https://reactjs.org"
