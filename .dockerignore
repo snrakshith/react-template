@@ -1,0 +1,12 @@
+/node_modules
+Dockerfile
+.dockerignore
+.github
+.storybook
+LICENSE
+
+# Markdown files
+CHANGELOG.md
+README.md
+CONTRIBUTING.md
+
