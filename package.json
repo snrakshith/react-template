@@ -1,8 +1,8 @@
 {
-  "name": "demo-project",
+  "name": "react-template",
   "version": "0.0.0",
   "engines": {
-    "node": ">=18.17.0",
+    "node": ">=18.18.0",
     "npm": ">=9.0.0"
   },
   "scripts": {
