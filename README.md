@@ -4,22 +4,22 @@ Demo project for the [How to set up a Front-End project with Vite, React, and Ty
 
 ## Demo
 
-You can see this project deployed to Cloudflare Pages!
+You can see this project deployed to Github Pages!
 
-Link: <https://setup-project-demo.pages.dev>
+Link: 
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Pixelmatters/setup-project-demo
+  git clone https://github.com/snrakshith/react-template
 ```
 
 Go to the project directory
 
 ```bash
-  cd setup-project-demo
+  cd react-template
 ```
 
 Install dependencies
