@@ -35,8 +35,8 @@ RUN npm ci --include=dev
 COPY --from=development /usr/src/app/dist ./dist
 
 # Expose the port that the app will run on
-# EXPOSE 5000
+EXPOSE 5000
 
-# CMD [ "node" , "dist/index.js" ]
+CMD [ "node" , "dist/index.js" ]
 
 
